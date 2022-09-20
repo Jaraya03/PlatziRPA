@@ -3,7 +3,7 @@
   "description": "este proyecto contiene todas las clases vistas en el curso platzi",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.12.3]",
+    "UiPath.Excel.Activities": "[2.8.4-preview]",
     "UiPath.Mail.Activities": "[1.15.2]",
     "UiPath.PDF.Activities": "[3.9.0-preview]",
     "UiPath.System.Activities": "[22.4.4]",
